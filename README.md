@@ -73,7 +73,7 @@ I am a motivated developer with hands-on experience in frontend and backend tech
 
 📧 Email: [aarchipatel2602@gmail.com](mailto:aarchipatel2602@gmail.com)
 
-💼 LinkedIn: [Aarchi Patel](https://www.linkedin.com/in/aarchipatel075769403utm_source=share_via&utm_content=profile&utm_medium=member_android))
+💼 LinkedIn: [Aarchi Patel](https://www.linkedin.com/in/aarchipatel075769403utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 🐙 GitHub: [AarchiPatel2602](https://github.com/AarchiPatel2602)
 
