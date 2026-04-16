@@ -65,7 +65,7 @@ I am a motivated developer with hands-on experience in frontend and backend tech
 
 ## 📄 Resume
 
-📥 Download Resume: [Aarchi-Patel-CV.pdf](https://github.com/user-attachments/files/26784716/Aarchi-Patel-CV.pdf)
+📥 Download Resume: [Aarchi-Patel-CV.pdf](https://github.com/user-attachments/files/26785186/Aarchi-Patel-CV.pdf)
 
 ---
 
